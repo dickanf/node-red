@@ -198,7 +198,6 @@ module.exports = {
     //    context.global.os
 
     functionGlobalContext: {
-	node-json-transform:require('node-json-transform')
         // os:require('os'),
         // octalbonescript:require('octalbonescript'),
         // jfive:require("johnny-five"),
